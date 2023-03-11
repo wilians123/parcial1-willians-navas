@@ -1,0 +1,3 @@
+C:/Users/HUAWEI/Desktop/wilians parcial/cmake-build-debug/CMakeFiles/wilians.dir
+C:/Users/HUAWEI/Desktop/wilians parcial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HUAWEI/Desktop/wilians parcial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
